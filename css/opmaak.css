@@ -1,17 +1,17 @@
 * {
   margin: 0px;
   padding: 0px;
-  color: white;
 }
 
 body {
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
-  background-color: black;
+  background-color: rgb(204, 204, 204);
 }
+
 header {
   background: url('https://cdn.discordapp.com/attachments/983028049270415420/1017792077930713168/unknown.png');
   width: 960px;
-  height: 150px;
+  height: 140px;
 }
 
 header h1 {
@@ -20,4 +20,25 @@ header h1 {
   color: black;
   text-align: right;
   text-shadow: 5px 5px 7px #000000;
+}
+
+ul {
+  background: #080808;
+  padding: 10px;
+}
+
+ul li {
+  background: #787878;
+  padding: 5px;
+  border: solid 2px white;
+  display: inline-block;
+}
+
+ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  color: #C0C0C0;
 }
