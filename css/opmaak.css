@@ -8,3 +8,16 @@ body {
   font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
   background-color: black;
 }
+header {
+  background: url('https://cdn.discordapp.com/attachments/983028049270415420/1017792077930713168/unknown.png');
+  width: 960px;
+  height: 150px;
+}
+
+header h1 {
+  font-size: 300%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: black;
+  text-align: right;
+  text-shadow: 5px 5px 7px #000000;
+}
