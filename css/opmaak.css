@@ -56,3 +56,13 @@ section article {
   padding: 10px;
   background: white;
 }
+
+footer {
+  background: #F0F0F0;
+}
+
+footer h3 {
+  text-align: center;
+  font-weight: normal;
+  font-size: 90%;
+}
